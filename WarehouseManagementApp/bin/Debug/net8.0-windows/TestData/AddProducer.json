@@ -1,0 +1,14 @@
+{
+  "Products": [],
+  "Name": "Producent blach Testy Dodania",
+  "Email": "testowy@test.com",
+  "Tel1": "00 001 00 01",
+  "Tel2": "00 001 11 11",
+  "Description": "Testowy opis.",
+  "Adress": {
+    "Street": "Testy 12a",
+    "City": "Rzesz\u00F3w",
+    "PostalCode": "31-555",
+    "Country": "Polska"
+  }
+}
