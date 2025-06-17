@@ -1,0 +1,24 @@
+[
+  {
+    "ProductName": "Blacha cienka 10mm. 30x20",
+    "IsProduct": true,
+    "Description": "Ci\u0119ka blacha metalowa.",
+    "Price": 150.99,
+    "PriceUnit": "z\u0142",
+    "Weight": 2,
+    "WeightUnit": "kg.",
+    "AmountInMagazin": 500,
+    "AomuntUnit": "szt."
+  },
+  {
+    "ProductName": "Blacha cienka 10mm. 100x100",
+    "Description": "Ci\u0119ka blacha metalowa.",
+    "IsProduct": true,
+    "Price": 150.99,
+    "PriceUnit": "z\u0142",
+    "Weight": 2,
+    "WeightUnit": "kg.",
+    "AmountInMagazin": 500,
+    "AomuntUnit": "szt."
+  }
+]

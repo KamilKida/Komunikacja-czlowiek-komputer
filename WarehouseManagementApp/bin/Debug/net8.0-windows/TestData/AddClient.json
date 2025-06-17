@@ -1,0 +1,16 @@
+[
+  {
+    "IsClient": true,
+    "Name": "Testowy klient22",
+    "Email": "testowyEmail@cos.com",
+    "Tel1": null,
+    "Tel2": null,
+    "Description": "Opis testowy",
+    "Adress": {
+      "Street": "Jaka\u015B 12",
+      "City": "Warszawa",
+      "PostalCode": "00-001",
+      "Country": "Polska"
+    }
+  }
+]
